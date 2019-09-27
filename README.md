@@ -13,3 +13,10 @@ os.system("start cmd")
 
 
 
+| TASK KILL |
+------------------------------------------
+import os
+os.system("taskkill /f /im  Example.exe")
+
+
+
